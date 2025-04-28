@@ -1,4 +1,4 @@
-# Soccer Fan App
+# Football Hub
 
 A modern web application for soccer fans to track live scores, standings, and news from top football leagues.
 
